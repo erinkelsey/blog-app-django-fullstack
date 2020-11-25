@@ -6,9 +6,8 @@ Hosted example: https://blog-app-django-fullstack.herokuapp.com/
 
 Test Credentials:
 
-Username: test
-
-Password: testpassword
+    Username: test
+    Password: testpassword
 
 ### Install
 
