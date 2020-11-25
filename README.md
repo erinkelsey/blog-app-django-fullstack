@@ -4,6 +4,12 @@ Fullstack Django blog app implemented using Django 3 with MVT (Model-View-Templa
 
 Hosted example:
 
+Credentials:
+
+Username:
+
+Password: 
+
 ### Install
 
     $ pipenv install
