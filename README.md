@@ -19,7 +19,6 @@ Password: testpassword
 #### Migrations
 
     $ pipenv shell
-    $ python manage.py makemigrations
     $ python manage.py migrate
 
 ### Run
@@ -45,7 +44,6 @@ Creating the PostgreSQL DB:
     $ heroku addons:create heroku-postgresql:hobby-dev --app=<app-name>
 
 Apply Migrations to PostgreSQL DB:
-    $ heroku run python manage.py makemigrations
     $ heroku run python manage.py migrate
 
 Create Superuser:
